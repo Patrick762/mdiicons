@@ -6,7 +6,7 @@ This library uses the mdi font from [Pictogrammers.com](https://pictogrammers.co
 ## Examples
 
 ```py
-from mdi import MDI
+from mdiicons import MDI
 
 svg = MDI.get_icon("account", "#f00")
 ```

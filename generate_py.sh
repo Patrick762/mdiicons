@@ -40,7 +40,7 @@ echo "        icon = MDI.icons.get(name, '')" >> mdi.py
 echo "        return icon.replace('fill=\"#ABC123\"', f'fill=\"{color}\"')" >> mdi.py
 
 # Put generated file in directory
-mv -f mdi.py mdi/mdi.py
+mv -f mdi.py mdiicons/mdiicons.py
 
 # Cleanup
 echo "Cleanup"
