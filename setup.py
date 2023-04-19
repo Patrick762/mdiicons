@@ -12,7 +12,7 @@ DESCRIPTION = 'Material Design SVG strings for Python'
 
 # Setting up
 setup(
-    name="mdi-icons",
+    name="mdiicons",
     version=VERSION,
     author="Patrick762",
     author_email="<pip-mdi-icons@hosting-rt.de>",
