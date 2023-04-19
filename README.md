@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/mdiicons.svg)](https://badge.fury.io/py/mdiicons)
+
 # mdi-py
 Material Design SVG strings for Python
 
