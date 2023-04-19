@@ -1,1 +1,1 @@
-from mdiicons/mdiicons import MDI
+from mdiicons.mdiicons import MDI
