@@ -12,16 +12,16 @@ DESCRIPTION = 'Material Design SVG strings for Python'
 
 # Setting up
 setup(
-    name="mdi",
+    name="mdi-icons",
     version=VERSION,
     author="Patrick762",
-    author_email="<pip-mdi@hosting-rt.de>",
+    author_email="<pip-mdi-icons@hosting-rt.de>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
     install_requires=[],
-    keywords=['python', 'mdi', 'materialdesign', 'material design', 'materialdesignicons', 'material design icons'],
+    keywords=['python', 'mdi', 'materialdesign', 'material design', 'materialdesignicons', 'material design icons', 'icons'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
